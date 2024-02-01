@@ -1,0 +1,3 @@
+files:
+  - source: crowdin_sample_android (6).xml
+    translation: /transltaion/%original_file_name%.%two_letters_code%.xml
