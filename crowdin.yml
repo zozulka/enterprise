@@ -1,4 +1,5 @@
 files:
   - source: crowdin_sample_android (6).xml
     translation: /transltaion/%original_file_name%.%two_letters_code%.xml
-preserve_hierarchy: true
+  - source: test/file/Example (1).json
+    translation: test/file/translation/Example (1).json
