@@ -3,3 +3,4 @@ files:
     translation: /transltaion/%original_file_name%.%two_letters_code%.xml
   - source: test/file/Example (1).json
     translation: test/file/translation/Example (1).json
+preserve_hierarchy: false
